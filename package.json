@@ -22,6 +22,8 @@
     "webpack-cli": "^3.3.11"
   },
   "dependencies": {
-    "express": "^4.17.1"
+    "axios": "^0.19.2",
+    "express": "^4.17.1",
+    "pg": "^7.18.2"
   }
 }
