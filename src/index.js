@@ -4,6 +4,6 @@ import ReactDOM from 'react-dom';
 const root = document.querySelector('#root');
 
 const App = () => {
-  return <div>The App</div>;
+  return <div>I Love You</div>;
 };
 ReactDOM.render(<App />, root);
